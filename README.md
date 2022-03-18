@@ -5,5 +5,5 @@ Materials about Markdown
 [The Markdown Guide](https://www.markdownguide.org/book/)
 
 ## Websites
-<https://daringfireball.net/projects/markdown/>
-<https://www.markdownguide.org/>
++ <https://daringfireball.net/projects/markdown/>
++ <https://www.markdownguide.org/>
